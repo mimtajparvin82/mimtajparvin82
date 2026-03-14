@@ -31,7 +31,7 @@
 - 💡 Passionate about coding and problem solving
 - 🎯 Goal: Become a professional Full Stack Developer
 - 🧩  Building real world web applications
-- 📍 From Andhra Pradesh, India
+- 📍 From Bangalore, India
 
 ---
 
